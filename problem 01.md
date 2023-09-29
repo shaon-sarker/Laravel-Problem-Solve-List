@@ -6,7 +6,7 @@
 
 # Multivendor Ecommerce
 
-Here's how I solved the problems when i face problems.
+Problems I faced while doing the project in Laravel.
 
 
 
